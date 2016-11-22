@@ -1,0 +1,4 @@
+#指定忽略.class文件和build文件夹#
+*.class
+target/*
+
