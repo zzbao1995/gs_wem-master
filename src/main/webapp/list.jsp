@@ -20,11 +20,7 @@ table{text-align: center;}
 			<td>浊度</td>
 			<td>电导率</td>
 			<td>溶解氧</td>
-<<<<<<< HEAD
-			<td>采集时间</td>
-=======
-			<td>导入时间</td>
->>>>>>> origin/master
+			<td>数据采集时间</td>
 		</tr>
 		<c:forEach var="ele" items="${list}">
 			<tr>
